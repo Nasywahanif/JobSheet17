@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".PPLGFragment">
+
+    <!-- TODO: Update blank fragment layout -->
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="20sp"
+        android:text="PPLG"
+        android:textAlignment="center"
+        android:textSize="40sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="645dp"
+        android:layout_marginTop="75sp"
+        android:text="PPLG ( Pengembangan Perangkat Lunak dan GIM ) merupakan jurusan yang sebelumnya bernama RPL ( Rekayasa Perangkat Lunak ). Perubahan ini dikarenakan ditunjuknya SMK Muhammadiyah 1 Klaten Utara menjadi sekolah Pusat Keunggulan sehingga Kurikulum kelas X mengikuti peraturan yang ada. PPLG berfokus pada keahlian siswa/siswi dalam hal software/program WEB, komputer dan android, selain itu siswa/siswi juga diberikan ilmu umum tentang hardware, multimedia, kewirausahaan."
+        android:textAlignment="center"
+        android:textSize="25sp" />
+</FrameLayout>

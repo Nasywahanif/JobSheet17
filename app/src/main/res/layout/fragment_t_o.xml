@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".TOFragment">
+
+    <!-- TODO: Update blank fragment layout -->
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="20sp"
+        android:text="OTOMOTIF"
+        android:textAlignment="center"
+        android:textSize="40sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="645dp"
+        android:layout_marginTop="75sp"
+        android:text="Otomotif adalah ilmu yang mempelajari tentang mesin kendaraan bermotor seperti mobil dan sepeda motor. Otomotif juga memiliki berbagai disiplin ilmu yang lebih spesifik tentang komponen dari sistem yang terkandung dalam kendaraan bermotor.Dalam arti lain, juga ilmu mesin untuk kendaraan bermotor, seperti mobil dan sepeda motor. Terkait dengan dua utama seperti antara lain tentang Accu, baterai, ban, mesin, jok, dll.Ini akan menyenangkan jika kita bisa mengendarai kendaraan dengan model yang kita sukai. Saat ini, ada berbagai model mobil yang bisa menjadi pilihan konsumen. Konsumen dimanjakan dengan banyak pilihan yang tersedia."
+        android:textAlignment="center"
+        android:textSize="25sp" />
+
+</FrameLayout>

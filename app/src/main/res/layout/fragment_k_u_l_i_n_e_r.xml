@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".KULINERFragment">
+
+    <!-- TODO: Update blank fragment layout -->
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="20sp"
+        android:text="KULINER"
+        android:textAlignment="center"
+        android:textSize="40sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="642dp"
+        android:layout_marginTop="75sp"
+        android:text="Pengertian kuliner secara umum adalah kegiatan yang berhubungan dengan memasak atau aktivitas memasak. Kuliner juga dapat dimaknai sebagai hasil olahan yang berupa masakan berupa lauk-pauk, panganan maupun minuman. Kuliner tidak terlepas dari kegiatan masak-memasak yang erat kaitannya dengan konsumsi makanan sehari-hari.Kata kuliner merupakan unsur serapan bahasa Inggris yaitu culinary yang berarti berhubungan dengan masak-memasak atau aktivitas memasak. Sedangkan orang yang bekerja di bidang kuliner disebut koki atau chef."
+        android:textAlignment="center"
+        android:textSize="25sp"/>
+
+
+</FrameLayout>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".BUSANAFragment">
+
+    <!-- TODO: Update blank fragment layout -->
+
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="TATA BUSANA"
+        android:textAlignment="center"
+        android:textStyle="bold"
+        android:layout_marginTop="20sp"
+        android:textSize="40sp" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="75sp"
+        android:text="Tata busana merupakan suatu disiplin ilmu dan seni mengenai penerapan desain, estetika, dan keindahan alami untuk pakaian dan hiasan tambahannya. Penerapan tata busana dipengaruhi oleh corak budaya dan sosial, yang beragam tergantung pada waktu dan tempat. Di Indonesia, tata busana banyak diajarkan di Sekolah Menengah Kejuruan dan Madrasah Aliyah di mana para murid yang mendalami disiplin ilmu ini diarahkan untuk bisa menjadi ahli atau perancang busana yang bisa merancang pakaian tersendiri dan mengerti selera pasar. Di tingkat pendidikan tinggi, ilmu tata busana atau desain fashion merupakan salah-satu jurusan yang banyak ditawarkan oleh sekolah desain dan seni kepada peminat yang ingin meniti karier dalam industri busana."
+        android:textAlignment="center"
+        android:textSize="23sp" />
+</FrameLayout>

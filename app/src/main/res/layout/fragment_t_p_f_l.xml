@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".TPFLFragment">
+
+    <!-- TODO: Update blank fragment layout -->
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="20sp"
+        android:text="PENGELASAN"
+        android:textAlignment="center"
+        android:textSize="40sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="642dp"
+        android:layout_marginTop="75sp"
+        android:text="Pengelasan (welding) adalah salah satu teknik penyambungan logam dengan cara mencairkan sebagian logam induk dan logam pengisi dengan atau tanpa tekanan dan dengan atau tanpa logam penambah dan menghasilkan sambungan yang kontinu. Lingkup teknik pengelasan dalam kontruksi sangat luas, meliputi perkapalan, jembatan, rangka baja, bejana tekan, pipa pesat, pipa saluran dan sebagainya. Disamping proses las dapat juga untuk reparasi misalnya mengisi lubang-lubang pada coran, membuat lapisan las pada perkakas, mempertebal bagian yang sudah aus, dan lainnya. Pengelasan bukan tujuan utama dari konstruksi, tetapi sarana untuk mencapai pembuatan yang lebih baik."
+        android:textAlignment="center"
+        android:textSize="25sp" />
+
+
+</FrameLayout>
